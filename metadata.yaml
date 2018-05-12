@@ -1,0 +1,38 @@
+_repo: The-Fifth-Dimension-Tube_30408
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30408-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: Settle in for a rollicking science-fiction adventure from golden-era
+  star Murray Leinster. In The Fifth-Dimension Tube, a prominent scientist and his
+  beloved daughter have become stranded in another dimension. In order to survive,
+  they must cast their lot with rogue mathematician Tommy Reeves. To succeed in this
+  life-or-death endeavor, Reeves has to overcome not only his own gadabout ways, but
+  also the thugs who are pursuing him.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Fifth-Dimension Tube
+url: http://www.gutenberg.org/ebooks/30408
